@@ -10,7 +10,7 @@
     <array>
         <string>/bin/sh</string>
 		<string>-c</string>
-        <string>~/bing-wallpaper.sh</string>
+        <string>~/Code/bing-wallpaper/bing-wallpaper.sh</string>
     </array>
     <key>StartInterval</key>
     <integer>1800</integer>
